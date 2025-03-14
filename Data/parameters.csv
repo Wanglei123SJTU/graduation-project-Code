@@ -1,0 +1,2 @@
+num_tasks,num_cranes,num_bays,safety_margin,stability_threshold,time_horizon
+50,3,20,3,300,7617
